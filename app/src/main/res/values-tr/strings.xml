@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Foodbasket</string>
+  <string name="title_activity_login">Giriş</string>
+  <string name="button_login">Giriş Yap</string>
+  <string name="password">Şifre</string>
+  <string name="username">Kullanıcı Adı</string>
+  <string name="title_activity_list">Kişiler</string>
+  <string name="label_cellphone">Cep Telefonu</string>
+  <string name="label_workphone">İş Telefonu</string>
+  <string name="label_addressphone">Adres</string>
+  <string name="label_birthdate">Doğum Günü</string>
+  <string name="save">Kaydet</string>
+  <string name="progress_dialog_message">Lütfen bekleyiniz…</string>
+  <string name="permission_error">Uygulamayı kullanmak için lütfen izin verin</string>
+  <string name="button_ok">Tamam</string>
+  <string name="login_failed">Login failed</string>
+  <string name="data_upload_failed">Could not update the information, please try again.</string>
+  <string name="data_download_failed">Could not download data.</string>
+  <string name="credentials_error">Lütfen kullanıcı adı ve parola giriniz.</string>
+</resources>

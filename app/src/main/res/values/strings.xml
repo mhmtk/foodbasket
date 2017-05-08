@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Foodbasket</string>
+  <string name="title_activity_login">Login</string>
+  <string name="button_login">Log In</string>
+  <string name="username">Username</string>
+  <string name="password">Password</string>
+  <string name="title_activity_list">People</string>
+  <string name="name_last_name" translatable="false">%s %s</string>
+  <string name="title_activity_person_detail">Person</string>
+  <string name="label_cellphone">Cell Phone</string>
+  <string name="label_workphone">Work Phone</string>
+  <string name="label_addressphone">Address</string>
+  <string name="label_birthdate">Birthday</string>
+  <string name="save">Save</string>
+  <string name="progress_dialog_message">Please wait…</string>
+  <string name="permission_error">Permissions must be granted to use the app</string>
+  <string name="button_ok">Ok</string>
+  <string name="login_failed">Login failed</string>
+  <string name="data_upload_failed">Could not update the information, please try again.</string>
+  <string name="data_download_failed">Could not download data.</string>
+  <string name="credentials_error">Please enter both a username and a password</string>
+</resources>

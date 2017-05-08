@@ -1,0 +1,13 @@
+{
+  "status": 200,
+  "response": {
+    "id": 0,
+    "name": "John",
+    "last_name": "Doe",
+    "profile_picture": "https://scontent.fsaw1-9.fna.fbcdn.net/v/t1.0-9/14725730_10154441147785090_8055460574370910384_n.jpg?oh=0f126c7fe356e88217226cab62474edf&oe=59750DA8",
+    "birth_date" : "1992-11-01",
+    "cell_no" : "+905321231212",
+    "work_no" : "+902123213232",
+    "address" : "1 Instagram Sk, Karakoy Mah, Istanbul."
+  }
+}
